@@ -1,3 +1,5 @@
 This simulation demonstrates how an initially chaotic system with planets orbiting in different directions evenentually 
 stabilizes. The planets fall into stable orbits all moving in the same direction.
 
+Let the boxes fall halfway down the screen to gain some initial velocity and then hold space to apply a gravitational force
+towards the center.
