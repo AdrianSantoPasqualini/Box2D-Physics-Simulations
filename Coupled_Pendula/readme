@@ -1,2 +1,5 @@
-This simulation demonstrates how an initially chaotic system with planets orbiting in different directions evenentually 
-stabilizes. The planets all fall into somewhat stable orbits which all move in the same direction. 
+This is a spring coupled pendula system. The two pendulums are connected via a spring and one is given an initial 
+displacement to the right. As the right pendulum oscillates it transfers kinetic energy through the spring to the other 
+pendulum. Eventually, a full energy transfer will occur and the right pendulum will be motionless. At this point, the left 
+pendlum will oscillate with an max amplitude equal to the initial displacement of the right pendulum. This cycle will continue
+to repeat and energy will be transferred between the pendula until it is lost to damping forces.
