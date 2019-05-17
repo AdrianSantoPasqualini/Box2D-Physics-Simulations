@@ -20,7 +20,7 @@ void setup(){
 void draw(){
   background(255);
   box2d.step();
-  fill(0);
+  fill(255);
   ellipse(width/2,height/2,30,30);
   for (Box b:boxes){
    b.display(); 
