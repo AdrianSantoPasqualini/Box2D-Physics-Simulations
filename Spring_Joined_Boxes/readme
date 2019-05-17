@@ -1,0 +1,4 @@
+This simulation was made mainly for fun and to experiment with some of Box2D's features. Mainly, I was testing out the spring 
+joint, which I planned to use in the coupled pendula system simulation. 
+
+Click anywhere to spawn a pair of boxes connected by a stiff spring joint. 
